@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>io.github.mhdhamouday.keyboardlayout.arabic-sv</string>
+	<key>CFBundleName</key>
+	<string>Arabic (SV)</string>
+	<key>CFBundleVersion</key>
+	<string>1.1</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.1</string>
+	<key>KLInfo_Arabic (SV)</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>io.github.mhdhamouday.keyboardlayout.arabic-sv.arabic-sv</string>
+		<key>TISIntendedLanguage</key>
+		<string>ar</string>
+		<key>TISIconIsTemplate</key>
+		<true/>
+	</dict>
+</dict>
+</plist>
